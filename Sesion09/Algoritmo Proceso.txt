@@ -1,0 +1,15 @@
+Algoritmo para proceso de transportes SAP
+
+Paso 1: Inicio
+Paso 2: Crear orden de cambios (CHARM)
+Paso 3: En la orden de cambios, capturar el tipo de cambio, prioridad, departamento y liberar a firmas
+Paso 4: Notificar a jefe inmediato para que autorice la orden de cambios
+Paso 5: Si la orden ya ha sido firmada ir al paso 6, si no ir al paso 4.
+Paso 6: Agregar a la orden de cambios los documentos de pruebas y liberar orden para autorización
+Paso 7: Notificar a BPO para que autorice la orden de cambios
+Paso 8: Si la orden ya ha sido firmada por BPO ir al paso 9, si no ir al paso 7
+Paso 9: Agregar a la orden los numeros de transportes SAP para liberar y liberar a firmas
+Paso 10: Notificar a equipo de operación para que importe transportes
+Paso 11: Si los transportes no han sido importado ir al paso 10, si no ir al paso 12
+Paso 12: Revisar que transportes se hayan importado correctamente
+Paso 13: Fin

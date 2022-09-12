@@ -1,0 +1,12 @@
+Algoritmo para jugar un juego en Nintendo Switch
+
+Paso 1: Inicio
+Paso 2: Encender la television
+Paso 3: Encender la consola Nintendo Switch
+Paso 4: Revisar si hay cartucho en la consola
+Paso 5: Si hay cartucho, ir al paso 5
+Paso 6: Si no hay cartucho, introducir cartucho en la consola.
+Paso 7: Abrir juego en la consola para jugar
+Paso 8: Jugar y divertirse
+Paso 9: Si ya termine de jugar, apagar consola y apagar television, si no, ir al pago 6
+Paso 10: Fin
